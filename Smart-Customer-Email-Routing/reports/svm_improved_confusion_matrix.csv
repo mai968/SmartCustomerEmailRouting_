@@ -1,0 +1,11 @@
+,Predicted: Billing and Payments,Predicted: Customer Service,Predicted: General Inquiry,Predicted: Human Resources,Predicted: IT Support,Predicted: Product Support,Predicted: Returns and Exchanges,Predicted: Sales and Pre-Sales,Predicted: Service Outages and Maintenance,Predicted: Technical Support
+Actual: Billing and Payments,139,3,0,0,2,7,0,0,0,8
+Actual: Customer Service,5,160,0,0,9,24,3,2,0,38
+Actual: General Inquiry,0,0,17,0,1,3,0,1,0,2
+Actual: Human Resources,0,0,0,23,5,5,0,0,0,2
+Actual: IT Support,0,8,0,0,134,14,0,0,1,37
+Actual: Product Support,5,22,0,1,10,212,3,1,4,49
+Actual: Returns and Exchanges,4,6,0,0,1,10,54,0,0,7
+Actual: Sales and Pre-Sales,0,10,0,0,1,3,0,29,0,8
+Actual: Service Outages and Maintenance,0,3,0,0,3,3,0,0,49,9
+Actual: Technical Support,6,22,1,2,23,36,1,2,5,376

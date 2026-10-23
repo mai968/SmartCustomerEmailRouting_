@@ -1,0 +1,38 @@
+
+{
+  "name": "Smart Customer Email Routing",
+  "dataColors": [
+    "#174574",
+    "#3182CE",
+    "#35AAA6",
+    "#9270C9",
+    "#E85D68",
+    "#F5B942",
+    "#65B96E",
+    "#F28E2B",
+    "#8A96A8",
+    "#4DB6AC"
+  ],
+  "background": "#F5F8FC",
+  "foreground": "#17365D",
+  "tableAccent": "#3182CE",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI",
+            "fontSize": 12,
+            "fontColor": {
+              "solid": {
+                "color": "#17365D"
+              }
+            },
+            "bold": true
+          }
+        ]
+      }
+    }
+  }
+}

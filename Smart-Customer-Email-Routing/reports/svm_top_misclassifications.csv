@@ -1,0 +1,55 @@
+rank,actual_queue,predicted_queue,error_count
+1,Product Support,Technical Support,49
+2,IT Support,Technical Support,42
+3,Technical Support,Product Support,37
+4,Customer Service,Technical Support,35
+5,Customer Service,Product Support,25
+6,Technical Support,Customer Service,22
+7,Product Support,Customer Service,22
+8,Technical Support,IT Support,21
+9,IT Support,Product Support,14
+10,Customer Service,IT Support,12
+11,Product Support,IT Support,10
+12,Returns and Exchanges,Technical Support,10
+13,Sales and Pre-Sales,Technical Support,10
+14,Billing and Payments,Technical Support,9
+15,Service Outages and Maintenance,Technical Support,8
+16,Returns and Exchanges,Product Support,8
+17,Sales and Pre-Sales,Customer Service,7
+18,IT Support,Customer Service,6
+19,Technical Support,Service Outages and Maintenance,6
+20,Billing and Payments,Customer Service,6
+21,Returns and Exchanges,Customer Service,6
+22,Product Support,Billing and Payments,6
+23,Customer Service,Billing and Payments,5
+24,Billing and Payments,Product Support,5
+25,Human Resources,IT Support,5
+26,Human Resources,Product Support,5
+27,Technical Support,Billing and Payments,5
+28,Service Outages and Maintenance,Product Support,4
+29,Service Outages and Maintenance,IT Support,4
+30,Sales and Pre-Sales,Product Support,4
+31,General Inquiry,Product Support,4
+32,Customer Service,Returns and Exchanges,4
+33,Service Outages and Maintenance,Customer Service,3
+34,Product Support,Returns and Exchanges,3
+35,Returns and Exchanges,Billing and Payments,3
+36,General Inquiry,Technical Support,3
+37,Billing and Payments,IT Support,2
+38,Customer Service,Sales and Pre-Sales,2
+39,Technical Support,Human Resources,2
+40,Product Support,Service Outages and Maintenance,2
+41,Technical Support,Sales and Pre-Sales,2
+42,Technical Support,Returns and Exchanges,2
+43,Human Resources,Technical Support,2
+44,IT Support,Returns and Exchanges,1
+45,Customer Service,Service Outages and Maintenance,1
+46,General Inquiry,IT Support,1
+47,IT Support,Service Outages and Maintenance,1
+48,Returns and Exchanges,Sales and Pre-Sales,1
+49,Product Support,Human Resources,1
+50,Product Support,Sales and Pre-Sales,1
+51,Product Support,General Inquiry,1
+52,Returns and Exchanges,IT Support,1
+53,Sales and Pre-Sales,IT Support,1
+54,Technical Support,General Inquiry,1

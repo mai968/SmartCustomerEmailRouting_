@@ -1,0 +1,2 @@
+model,C,class_weight,tfidf_max_features,tfidf_ngram_range,train_samples,validation_samples,accuracy,macro_f1,weighted_f1
+Linear SVM,10.0,None,50000,"(1, 2)",13070,1634,0.7227662178702571,0.7326900624239383,0.7225160590103038

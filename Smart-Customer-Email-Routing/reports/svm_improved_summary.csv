@@ -1,0 +1,2 @@
+model,C,ngram_range,max_features_limit,actual_features,accuracy,macro_f1,weighted_f1,training_time_seconds
+Linear SVM,10.0,"(1, 2)",100000,82132,0.730110159118727,0.7442741893184526,0.7300411027594813,6.77
